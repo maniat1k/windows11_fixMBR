@@ -46,5 +46,6 @@ pause
 Realiza un respaldo: Asegúrate de respaldar tus datos importantes antes de eliminar particiones o ejecutar este script.
 Usa permisos de administrador: El script requiere privilegios de administrador para ejecutar los comandos correctamente.
 Confirma las particiones: Elimina solo las particiones relacionadas con Ubuntu.
+
 🛡️ **Soporte**
 Si tienes problemas o dudas, abre un Issue en este repositorio y estaré encantado de ayudarte.
